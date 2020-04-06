@@ -66,3 +66,27 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
+##### DETALHES DE CRIAR UM NOVO PROJETO ####
+
+clonei e fiz
+npm create-react-app .
+vou apagar a pasta front-end e subir os arquivos
+
+Adriano Almeida:eyes:  3:45 PM
+show
+
+depois fazermos o teste se eu na hora de criar, fiz algo q nao devia, mas somente fiz oq vc disse
+
+Mario Rinaldi  4:01 PM
+tem um . ali.
+
+geralmente voce coloca o nome do projeto.
+
+create-react-app proj1
+create-react-app proj2
+por exemplo. dai voce teria dois projetos de react no mesmo git.
+
+se voce taca um . no lugar do nome, ele entende que é na pasta
